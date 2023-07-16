@@ -1,0 +1,47 @@
+.heading{
+    margin-top: 200px;
+    border: 2px solid #121212;
+    height: 400px;
+    width: 500px;
+    /* background-color: #bfb5b57b; */
+    background-color: #4494aac1 ;
+}
+
+.l5{
+    text-align: center;
+    justify-content: center;
+}
+
+
+.name{
+    /* margin-left: 100px;
+    width: 200px;
+     */
+     justify-content: center;
+     
+
+}
+
+.pass{
+    /* margin-left: 0px;
+    width: 200px; */
+    /* height: 1rem; */
+    justify-content: center;
+
+   
+    
+}
+
+.log{
+    display: flex;
+    background-color: red;
+    color: white;
+    justify-content: center;
+    border: 2px solid red;
+    height: 22px ;
+    width: 300px;
+}
+
+body{
+    background-image: url(OIP.jpg);
+}
